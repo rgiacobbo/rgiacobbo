@@ -1,4 +1,4 @@
-## Eaiii, eu sou o Ricardo Giacobbo Filho, estudante de programação e tecnologia.
+## Hi! My name is <a https://www.linkedin.com/in/rgiacobbofilho/> Ricardo </a> .
 <div align="center">
   <a href="https://github.com/Rgiacobbo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rgiacobbo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
