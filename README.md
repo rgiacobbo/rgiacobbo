@@ -1,4 +1,4 @@
-## Hi! My name is a [Ricardo](https://www.linkedin.com/in/rgiacobbofilho/) .
+## Hi! My name is [Ricardo](https://www.linkedin.com/in/rgiacobbofilho/) .
 <div align="center">
   <a href="https://github.com/Rgiacobbo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rgiacobbo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
