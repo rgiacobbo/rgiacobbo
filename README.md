@@ -18,7 +18,7 @@
 
 </div>
 <div>
-  <img align="center" alt="Ricardo-CodeWars" src="[https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white](https://www.codewars.com/users/Rgiacobbo/badges/large)">
+  <img align="center" alt="Ricardo-CodeWars" src="https://www.codewars.com/users/Rgiacobbo/badges/large">
 </div>
 
   ##
